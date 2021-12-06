@@ -1,2 +1,2 @@
-# starmap-threejs
-Practice with ThreeJS, Typescript, and ParcelJS.
+# starmap-babylonjs
+Practice with BabylonJS, Typescript, and ParcelJS.
