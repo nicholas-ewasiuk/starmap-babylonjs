@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nicholas-ewasiuk/starmap-threejs#readme",
   "devDependencies": {
+    "@babylonjs/core": "^4.2.0",
     "parcel": "^2.0.1"
   }
 }
