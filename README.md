@@ -1,2 +1,2 @@
 # starmap-threejs
-ThreeJS template and practice
+Practice with ThreeJS, Typescript, and ParcelJS.
