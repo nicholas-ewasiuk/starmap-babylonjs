@@ -1,10 +1,13 @@
 {
-  "name": "starmap-threejs",
+  "name": "starmap-babylonjs",
   "version": "1.0.0",
-  "description": "Parcel, ThreeJS, and Canvas practice",
+  "description": "Parcel, BabylonJS, and Canvas practice",
   "main": "index.js",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
