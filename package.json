@@ -1,0 +1,22 @@
+{
+  "name": "starmap-threejs",
+  "version": "1.0.0",
+  "description": "Parcel, ThreeJS, and Canvas practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-ewasiuk/starmap-threejs.git"
+  },
+  "author": "nicholas-ewasiuk ewasiuk.nick@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholas-ewasiuk/starmap-threejs/issues"
+  },
+  "homepage": "https://github.com/nicholas-ewasiuk/starmap-threejs#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
